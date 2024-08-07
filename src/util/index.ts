@@ -1,1 +1,1 @@
-export * from "./colorGenerator";
+export * from './colorGenerator';

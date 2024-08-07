@@ -1,2 +1,2 @@
-export * from "./mockDrivers";
-export * from "./mockLocations";
+export * from './mockDrivers';
+export * from './mockLocations';

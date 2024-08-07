@@ -1,2 +1,2 @@
-export * from "./zippinApiDriver.interface";
-export * from "./zippinApiLocation.interface";
+export * from './zippinApiDriver.interface';
+export * from './zippinApiLocation.interface';
