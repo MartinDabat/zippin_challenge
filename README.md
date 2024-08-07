@@ -1,6 +1,6 @@
-# Challenge Zippin
+# Challenge FrontEnd Zippin 
 
-## React FrontEnd
+FrontEnd hecho con ReactJS + Typescript para challenge Zippin
 
 ## Instalación
 
