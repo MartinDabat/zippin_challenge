@@ -1,0 +1,7 @@
+*.jpg
+*.png
+
+build
+coverage
+
+.env.template
